@@ -1,0 +1,291 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<HTML>
+
+<HEAD>
+
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<META http-equiv="X-UA-Compatible" content="IE=8">
+
+<TITLE>Created by BCL easyConverter SDK 3 (HTML Version)</TITLE>
+
+<STYLE type="text/css">
+
+
+
+body {margin-top: 0px;margin-left: 0px;}
+
+
+
+#page_1 {position:relative; overflow: hidden;margin: 18px 0px 38px 0px;padding: 0px;border: none;width: 816px;}
+
+#page_1 #id_1 {border:none;margin: 0px 0px 0px 219px;padding: 0px;border:none;width: 597px;overflow: hidden;}
+
+#page_1 #id_2 {border:none;margin: 28px 0px 0px 47px;padding: 0px;border:none;width: 769px;overflow: hidden;}
+
+#page_1 #id_2 #id_2_1 {float:left;border:none;margin: 0px 0px 0px 0px;padding: 0px;border:none;width: 137px;overflow: hidden;}
+
+#page_1 #id_2 #id_2_2 {float:left;border:none;margin: 2px 0px 0px 0px;padding: 0px;border:none;width: 632px;overflow: hidden;}
+
+#page_1 #id_3 {border:none;margin: 3px 0px 0px 47px;padding: 0px;border:none;width: 769px;overflow: hidden;}
+
+#page_1 #id_4 {border:none;margin: 3px 0px 0px 47px;padding: 0px;border:none;width: 769px;overflow: hidden;}
+
+#page_1 #id_4 #id_4_1 {float:left;border:none;margin: 303px 0px 0px 0px;padding: 0px;border:none;width: 137px;overflow: hidden;}
+
+#page_1 #id_4 #id_4_2 {float:left;border:none;margin: 0px 0px 0px 0px;padding: 0px;border:none;width: 632px;overflow: hidden;}
+
+
+
+#page_1 #dimg1 {position:absolute;top:107px;left:0px;z-index:-1;width:816px;height:1px;font-size: 1px;line-height:nHeight;}
+
+#page_1 #dimg1 #img1 {width:816px;height:1px;}
+
+
+
+
+
+
+
+
+
+.ft0{font: 53px 'Arial';line-height: 60px;}
+
+.ft1{font: 15px 'Arial';color: #6a6a6a;line-height: 17px;}
+
+.ft2{font: 15px 'Arial';color: #333333;line-height: 17px;}
+
+.ft3{font: 21px 'Arial';color: #6a6a6a;line-height: 24px;}
+
+.ft4{font: bold 16px 'Arial';color: #333333;line-height: 18px;}
+
+.ft5{font: 13px 'Arial';color: #6a6a6a;line-height: 16px;}
+
+.ft6{font: bold 13px 'Arial';color: #2b2b2b;line-height: 16px;}
+
+.ft7{font: 13px 'Arial';color: #2b2b2b;line-height: 16px;}
+
+.ft8{font: 13px 'Arial';color: #2b2b2b;margin-left: 7px;line-height: 16px;}
+
+.ft9{font: 21px 'Arial';color: #6a6a6a;line-height: 23px;}
+
+.ft10{font: bold 16px 'Arial';color: #333333;line-height: 19px;}
+
+.ft11{font: 11px 'Arial';color: #2b2b2b;line-height: 14px;}
+
+.ft12{font: 11px 'Arial';color: #2b2b2b;line-height: 15px;}
+
+.ft13{font: 9px 'Arial';color: #2b2b2b;line-height: 13px;position: relative; bottom: 3px;}
+
+.ft14{font: 13px 'Arial';color: #2b2b2b;line-height: 17px;position: relative; bottom: -2px;}
+
+.ft15{font: 13px 'Arial';color: #2b2b2b;line-height: 17px;}
+
+
+
+.p0{text-align: left;margin-top: 0px;margin-bottom: 0px;}
+
+.p1{text-align: left;padding-left: 68px;padding-right: 248px;margin-top: 2px;margin-bottom: 0px;text-indent: -41px;}
+
+.p2{text-align: left;margin-top: 97px;margin-bottom: 0px;}
+
+.p3{text-align: left;margin-top: 1px;margin-bottom: 0px;}
+
+.p4{text-align: left;padding-left: 13px;padding-right: 140px;margin-top: 1px;margin-bottom: 0px;}
+
+.p5{text-align: left;padding-left: 90px;padding-right: 103px;margin-top: 0px;margin-bottom: 0px;text-indent: -76px;}
+
+.p6{text-align: left;padding-left: 13px;margin-top: 0px;margin-bottom: 0px;}
+
+.p7{text-align: left;margin-top: 6px;margin-bottom: 0px;}
+
+.p8{text-align: justify;padding-left: 171px;padding-right: 55px;margin-top: 0px;margin-bottom: 0px;text-indent: -15px;}
+
+.p9{text-align: left;padding-left: 171px;padding-right: 49px;margin-top: 1px;margin-bottom: 0px;text-indent: -15px;}
+
+.p10{text-align: justify;padding-left: 171px;padding-right: 49px;margin-top: 1px;margin-bottom: 0px;text-indent: -15px;}
+
+.p11{text-align: left;margin-top: 4px;margin-bottom: 0px;}
+
+.p12{text-align: left;padding-left: 137px;margin-top: 1px;margin-bottom: 0px;}
+
+.p13{text-align: left;margin-top: 91px;margin-bottom: 0px;}
+
+.p14{text-align: left;margin-top: 57px;margin-bottom: 0px;}
+
+.p15{text-align: justify;padding-left: 34px;padding-right: 89px;margin-top: 0px;margin-bottom: 0px;text-indent: -15px;}
+
+.p16{text-align: justify;padding-left: 34px;padding-right: 49px;margin-top: 2px;margin-bottom: 0px;text-indent: -15px;}
+
+.p17{text-align: justify;padding-left: 34px;padding-right: 61px;margin-top: 1px;margin-bottom: 0px;text-indent: -15px;}
+
+.p18{text-align: left;margin-top: 11px;margin-bottom: 0px;}
+
+.p19{text-align: justify;padding-left: 19px;margin-top: 3px;margin-bottom: 0px;}
+
+.p20{text-align: justify;padding-left: 19px;margin-top: 1px;margin-bottom: 0px;}
+
+.p21{text-align: justify;padding-left: 34px;padding-right: 73px;margin-top: 2px;margin-bottom: 0px;text-indent: -15px;}
+
+.p22{text-align: left;margin-top: 9px;margin-bottom: 0px;}
+
+.p23{text-align: left;margin-top: 10px;margin-bottom: 0px;}
+
+.p24{text-align: left;margin-top: 3px;margin-bottom: 0px;}
+
+.p25{text-align: left;padding-right: 178px;margin-top: 0px;margin-bottom: 0px;}
+
+
+
+
+
+
+
+
+
+</STYLE>
+
+</HEAD>
+
+
+
+<BODY>
+
+<DIV id="page_1">
+
+<DIV id="dimg1">
+
+<IMG src="Christopher_Hay_images/Christopher_Hay1x1.jpg" id="img1">
+
+</DIV>
+
+
+
+
+
+<DIV id="id_1">
+
+<P class="p0 ft0">Christopher Hay</P>
+
+<P class="p1 ft2"><SPAN class="ft1">Github:// </SPAN><A href="https://github.com/haychris">haychris </A><SPAN class="ft1">| LinkedIn:// </SPAN><A href="https://www.linkedin.com/in/haychristopher1">haychristopher1 </A><A href="mailto:chay@princeton.edu"><SPAN class="ft1">chay@princeton.edu </SPAN></A><SPAN class="ft1">| 480.433.7903</SPAN></P>
+
+</DIV>
+
+<DIV id="id_2">
+
+<DIV id="id_2_1">
+
+<P class="p0 ft3">EDUCATION</P>
+
+<P class="p2 ft3">WORK</P>
+
+</DIV>
+
+<DIV id="id_2_2">
+
+<P class="p0 ft2"><SPAN class="ft4">PRINCETON UNIVERSITY </SPAN>| BSE IN COMPUTER SCIENCE</P>
+
+<P class="p3 ft5">Expected June 2017 | Princeton, NJ</P>
+
+<P class="p4 ft7">Minors: Robotics and Intelligent Systems as well as Statistics and Machine Learning Cumulative <SPAN class="ft6">GPA: 3.81 </SPAN>/ 4.0 | Departmental <SPAN class="ft6">GPA: 3.85 </SPAN>/ 4.0</P>
+
+<P class="p5 ft7">Coursework: Algorithms & Data Structures, Systems Programming, Modern Logic Design, Statistics, Linear Algebra, and Multivariate Calculus</P>
+
+<P class="p6 ft7">Spring Coursework: CS Theory & Discrete Math, Big Data & Machine Learning</P>
+
+<P class="p7 ft2"><SPAN class="ft4">OSCAR HEALTH </SPAN>| SOFTWARE ENGINEERING INTERN</P>
+
+<P class="p3 ft5">June 2015 - August 2015 | New York City, NY</P>
+
+</DIV>
+
+</DIV>
+
+<DIV id="id_3">
+
+<P class="p8 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Designed and implemented degradation function for distance and cost estimates in health care searches using Solr, Thrift, and Twisted. Implemented in python.</SPAN></P>
+
+<P class="p9 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Created the company’s ﬁrst testbench for evaluating search performance. Done by building quality proﬁles and various </SPAN><NOBR>data-speciﬁc</NOBR> statistical evaluations and visualizations. Implemented in python using NumPy, SciPy, Pandas, Matplotlib, Seaborn, and Cython.</P>
+
+<P class="p10 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Aggregated and contextualized users’ activity logs in order to statistically analyze user behavior and further evaluate search results. Implemented in python.</SPAN></P>
+
+<P class="p11 ft10"><SPAN class="ft9">EXPERIENCE </SPAN>PRINCETON AUTONOMOUS VEHICLE ENGINEERING <SPAN class="ft2">| HEAD OF SOFTWARE</SPAN></P>
+
+<P class="p12 ft5">Sep 2014 – Present | Princeton, NJ</P>
+
+</DIV>
+
+<DIV id="id_4">
+
+<DIV id="id_4_1">
+
+<P class="p0 ft3">PROJECTS</P>
+
+<P class="p13 ft3">ACTIVITIES</P>
+
+<P class="p14 ft3">SKILLS</P>
+
+</DIV>
+
+<DIV id="id_4_2">
+
+<P class="p15 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Worked on socket handling and </SPAN><NOBR>OBD-PID</NOBR> request handling in C/C<SPAN class="ft11">++</SPAN>to interface the Ford Fusion’s CAN bus protocol with our system’s ROS framework.</P>
+
+<P class="p16 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Created ROS modules for reading data and writing commands to/from the car’s throttle, brakes, and steering in C</SPAN><SPAN class="ft11">++</SPAN>.</P>
+
+<P class="p17 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Decrypted/analyzed unknown CAN data packets via oscilloscope in order to determine Ford’s protocol for various CAN ids.</SPAN></P>
+
+<P class="p18 ft4">OPEN SOURCE AT PRINCETON <SPAN class="ft2">| PROJECT LEAD & OFFICER</SPAN></P>
+
+<P class="p3 ft5">Sep 2013 – Present | Princeton, NJ</P>
+
+<P class="p19 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Currently lead and mentor a team of six Princeton students who contribute to OpenMRS.</SPAN></P>
+
+<P class="p20 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Handled and resolved all member setup and </SPAN><NOBR>ticket-approach</NOBR> related issues.</P>
+
+<P class="p20 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Recruited students to join the open source community.</SPAN></P>
+
+<P class="p18 ft2"><SPAN class="ft4">OPENMRS </SPAN>| OPEN SOURCE CONTRIBUTOR</P>
+
+<P class="p3 ft5">Sep 2013 – Present | Princeton, NJ</P>
+
+<P class="p19 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">OpenMRS is a digital medical record system used in developing nations.</SPAN></P>
+
+<P class="p21 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Contributed various bug ﬁxes and added features to the patient search system using mostly Java and some Javascript.</SPAN></P>
+
+<P class="p22 ft2"><SPAN class="ft10">FROODER </SPAN>| ANDROID PROGRAMMER & BACKEND MANAGER</P>
+
+<P class="p0 ft5">Nov 2014 – Present | Princeton, NJ</P>
+
+<P class="p19 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Android/iOS app that aggregates information relevant to obtaining free food.</SPAN></P>
+
+<P class="p20 ft7"><SPAN class="ft7">•</SPAN><NOBR><SPAN class="ft8">Single-handedly</SPAN></NOBR> implemented the Android version and helped with the iOS version.</P>
+
+<P class="p20 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Managed the database and coded all </SPAN><NOBR>back-end</NOBR> services.</P>
+
+<P class="p20 ft7"><SPAN class="ft7">•</SPAN><SPAN class="ft8">Designed and implemented core algorithm for determining likelihood of food remaining.</SPAN></P>
+
+<P class="p23 ft10">ENTREPRENEURIAL CLUB <SPAN class="ft2">| MEMBER</SPAN></P>
+
+<P class="p0 ft5">Sep 2013 - Present | Princeton, NJ</P>
+
+<P class="p24 ft2"><SPAN class="ft4">ECOLOGY CLUB </SPAN>| SENIOR MEMBER</P>
+
+<P class="p3 ft5">Aug 2009 - Present | Gilbert, AZ</P>
+
+<P class="p22 ft7">Most experienced with: Python • Java • C • R • Android • Linux</P>
+
+<P class="p25 ft15">Proﬁcient with: C<SPAN class="ft12">++</SPAN>• Verilog • Assembly (AT&T/LC3) • Javascript • HTML/CSS Familiar with: iOS • MySQL • L<SPAN class="ft13">A</SPAN>T<SPAN class="ft14">E</SPAN>X</P>
+
+</DIV>
+
+</DIV>
+
+</DIV>
+
+</BODY>
+
+</HTML>
+
